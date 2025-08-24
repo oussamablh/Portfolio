@@ -1,0 +1,560 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "experience": "Experience",
+      "portfolio": "Portfolio",
+      "news": "News",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "My Self",
+      "name": "Oussama Belhamra",
+      "subtitle": "I'm A Web Developer",
+      "description": "The goal isn't to build a website. The goal is to build your business. With Creative, flexible and affordable website design and development.",
+      "downloadCV": "Download CV",
+      "moreInfo": "More Info"
+    },
+    "about": {
+      "title": "About",
+      "titleHighlight": "Me",
+      "headline": "Full-time code enthusiast, part-time bug hunter. Obsessed with clean design and smooth user experience.",
+      "bio": "I am your Web Developer having 3+ years of experience in this field provides complete range of web development solutions to any industry as well as corporate clients maintaining their reputation and increasing the brand awareness using modern technologies and best practices.",
+      "skills": "My Skills",
+      "personalDetails": {
+        "fullName": "Full Name:",
+        "age": "Age:",
+        "language": "Language:",
+        "phone": "Phone:",
+        "email": "Email:",
+        "address": "Address:"
+      },
+      "values": {
+        "fullName": "Oussama Belhamra",
+        "age": "25 Years",
+        "language": "Arabic, English, French",
+        "phone": "+213795733632",
+        "email": "ousamablh@gmail.com",
+        "address": "Algeria, Oran, Akid lotfi"
+      }
+    },
+    "services": {
+      "title": "My Services",
+      "webDesign": {
+        "title": "Web Design",
+        "description": "Connect With Your Users, Not Just Your Business.",
+        "readMore": "Read more"
+      },
+      "development": {
+        "title": "Development",
+        "description": "We Develop the Visual Identity of Your Business.",
+        "readMore": "Read more"
+      },
+      "laravel": {
+        "title": "Laravel",
+        "description": "Modern PHP Framework for Web Applications.",
+        "readMore": "Read more"
+      },
+      "seo": {
+        "title": "SEO Friendly",
+        "description": "Taking your site at the top of Google's ranking.",
+        "readMore": "Read more"
+      }
+    },
+    "experience": {
+      "title": "My Experience",
+      "education": "Education",
+      "workExperience": "Work Experience",
+      "educationItems": {
+        "webDev": {
+          "period": "2019-09 - 2021-09",
+          "title": "Associate of Science: Web Development",
+          "institution": "National Audio-visual Institute - Algeria, Oueld Fayet"
+        },
+        "highSchool": {
+          "period": "2017-09 - 2018-06",
+          "title": "High School Diploma",
+          "institution": "Al Mujahid Ben Badis Mohamed High School - Algeria, Mila, Teraai Beinen, Beinen Center"
+        }
+      },
+      "workItems": {
+        "hr": {
+          "period": "2022-09 - 2023-09",
+          "title": "Human Resources Management Deputy Officer",
+          "company": "National Army, Ouargla",
+          "responsibilities": [
+            "Worked well in a team setting, providing support and guidance",
+            "Worked flexible hours across night, weekend and holiday shifts",
+            "Adaptable and proficient in learning new concepts quickly and efficiently",
+            "Provided technical support using my knowledge to solve problems and support new projects",
+            "Tested and installed motherboards, processors, and graphics cards on desktops and laptops for corporate staff"
+          ]
+        }
+      }
+    },
+    "portfolio": {
+      "title": "My Portfolio",
+      "filters": {
+        "all": "ALL",
+        "web": "WEB",
+        "laravel": "LARAVEL",
+        "php": "PHP"
+      },
+      "projects": {
+        "ecommerce": {
+          "title": "E-Commerce Platform",
+          "description": "A full-featured e-commerce platform built with Laravel, featuring user authentication, product management, and payment integration.",
+          "liveDemo": "Live Demo",
+          "github": "GitHub"
+        },
+        "taskManagement": {
+          "title": "Task Management System",
+          "description": "A comprehensive task management application with user roles, project tracking, and real-time notifications.",
+          "liveDemo": "Live Demo",
+          "github": "GitHub"
+        },
+        "blog": {
+          "title": "Blog Platform",
+          "description": "A modern blog platform with admin panel, SEO optimization, and social media integration.",
+          "liveDemo": "Live Demo",
+          "github": "GitHub"
+        },
+        "portfolio": {
+          "title": "Portfolio Website",
+          "description": "A responsive portfolio website showcasing projects and skills with modern design principles.",
+          "liveDemo": "Live Demo",
+          "github": "GitHub"
+        },
+        "crm": {
+          "title": "CRM System",
+          "description": "A customer relationship management system with lead tracking and analytics dashboard.",
+          "liveDemo": "Live Demo",
+          "github": "GitHub"
+        },
+        "api": {
+          "title": "API Development",
+          "description": "RESTful API development with authentication, rate limiting, and comprehensive documentation.",
+          "liveDemo": "Live Demo",
+          "github": "GitHub"
+        }
+      }
+    },
+    "achievements": {
+      "title": "My Achievements",
+      "projects": "Projects",
+      "clients": "Clients",
+      "countries": "Countries",
+      "years": "Years"
+    },
+    "news": {
+      "title": "Latest News",
+      "items": {
+        "webDev": {
+          "date": "July 30, 2024 - Web Development",
+          "title": "Modern Web Development Trends 2024",
+          "description": "Exploring the latest trends in web development including AI integration, performance optimization, and modern frameworks.",
+          "readMore": "Read More"
+        },
+        "laravel": {
+          "date": "July 25, 2024 - Laravel",
+          "title": "Laravel 11: What's New and Exciting",
+          "description": "Discover the new features and improvements in Laravel 11 that will enhance your development workflow.",
+          "readMore": "Read More"
+        },
+        "php": {
+          "date": "July 20, 2024 - PHP",
+          "title": "PHP 8.3 Performance Improvements",
+          "description": "Learn about the performance enhancements and new features in PHP 8.3 that can boost your application speed.",
+          "readMore": "Read More"
+        }
+      }
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "messagePlaceholder": "Send me a message at ousamablh@gmail.com",
+        "submit": "Submit"
+      }
+    },
+    "footer": {
+      "tagline": "Web Developer | PHP & Laravel Enthusiast",
+      "copyright": "© 2024 Oussama Belhamra. All rights reserved."
+    }
+  },
+  "ar": {
+    "nav": {
+      "home": "الرئيسية",
+      "about": "حول",
+      "experience": "الخبرة",
+      "portfolio": "الأعمال",
+      "news": "الأخبار",
+      "contact": "اتصل"
+    },
+    "hero": {
+      "title": "نفسي",
+      "name": "أسامة بلحمرة",
+      "subtitle": "أنا مطور ويب",
+      "description": "الهدف ليس بناء موقع ويب. الهدف هو بناء عملك. مع تصميم وتطوير مواقع ويب إبداعية ومرنة وبأسعار معقولة.",
+      "downloadCV": "تحميل السيرة الذاتية",
+      "moreInfo": "المزيد من المعلومات"
+    },
+    "about": {
+      "title": "حول",
+      "titleHighlight": "أنا",
+      "headline": "متحمس للكود بدوام كامل، صياد أخطاء بدوام جزئي. مهووس بالتصميم النظيف وتجربة المستخدم السلسة.",
+      "bio": "أنا مطور الويب الخاص بك ولدي خبرة 3+ سنوات في هذا المجال يوفر مجموعة كاملة من حلول تطوير الويب لأي صناعة وكذلك العملاء المؤسسيين الحفاظ على سمعتهم وزيادة الوعي بالعلامة التجارية باستخدام التقنيات الحديثة وأفضل الممارسات.",
+      "skills": "مهاراتي",
+      "personalDetails": {
+        "fullName": "الاسم الكامل:",
+        "age": "العمر:",
+        "language": "اللغة:",
+        "phone": "الهاتف:",
+        "email": "البريد الإلكتروني:",
+        "address": "العنوان:"
+      },
+      "values": {
+        "fullName": "أسامة بلحمرة",
+        "age": "25 سنة",
+        "language": "العربية، الإنجليزية، الفرنسية",
+        "phone": "+213795733632",
+        "email": "ousamablh@gmail.com",
+        "address": "الجزائر، وهران، عكيد لطفي"
+      }
+    },
+    "services": {
+      "title": "خدماتي",
+      "webDesign": {
+        "title": "تصميم الويب",
+        "description": "تواصل مع مستخدميك، وليس فقط مع عملك.",
+        "readMore": "اقرأ المزيد"
+      },
+      "development": {
+        "title": "التطوير",
+        "description": "نطور الهوية البصرية لعملك.",
+        "readMore": "اقرأ المزيد"
+      },
+      "laravel": {
+        "title": "لارافيل",
+        "description": "إطار عمل PHP حديث لتطبيقات الويب.",
+        "readMore": "اقرأ المزيد"
+      },
+      "seo": {
+        "title": "صديق لمحركات البحث",
+        "description": "أخذ موقعك إلى قمة ترتيب جوجل.",
+        "readMore": "اقرأ المزيد"
+      }
+    },
+    "experience": {
+      "title": "خبرتي",
+      "education": "التعليم",
+      "workExperience": "الخبرة العملية",
+      "educationItems": {
+        "webDev": {
+          "period": "2019-09 - 2021-09",
+          "title": "دبلوم العلوم: تطوير الويب",
+          "institution": "المعهد الوطني للسمعي البصري - الجزائر، ولد فايت"
+        },
+        "highSchool": {
+          "period": "2017-09 - 2018-06",
+          "title": "دبلوم المدرسة الثانوية",
+          "institution": "ثانوية المجاهد بن باديس محمد - الجزائر، ميلة، تراعي بينين، مركز بينين"
+        }
+      },
+      "workItems": {
+        "hr": {
+          "period": "2022-09 - 2023-09",
+          "title": "نائب ضابط إدارة الموارد البشرية",
+          "company": "الجيش الوطني، ورقلة",
+          "responsibilities": [
+            "عملت بشكل جيد في بيئة الفريق، وتقديم الدعم والتوجيه",
+            "عملت ساعات مرنة عبر نوبات الليل والعطل الأسبوعية والعطل",
+            "قابل للتكيف وماهر في تعلم المفاهيم الجديدة بسرعة وكفاءة",
+            "قدمت الدعم التقني باستخدام معرفتي لحل المشاكل ودعم المشاريع الجديدة",
+            "اختبرت وقمت بتثبيت اللوحات الأم والمعالجات وبطاقات الرسومات على أجهزة الكمبيوتر المكتبية والمحمولة للموظفين المؤسسيين"
+          ]
+        }
+      }
+    },
+    "portfolio": {
+      "title": "أعمالي",
+      "filters": {
+        "all": "الكل",
+        "web": "الويب",
+        "laravel": "لارافيل",
+        "php": "بي إتش بي"
+      },
+      "projects": {
+        "ecommerce": {
+          "title": "منصة التجارة الإلكترونية",
+          "description": "منصة تجارة إلكترونية كاملة الميزات مبنية بلارافيل، تتميز بالمصادقة والمستخدم وإدارة المنتجات وتكامل الدفع.",
+          "liveDemo": "عرض حي",
+          "github": "جيثب"
+        },
+        "taskManagement": {
+          "title": "نظام إدارة المهام",
+          "description": "تطبيق شامل لإدارة المهام مع أدوار المستخدم وتتبع المشاريع والإشعارات في الوقت الفعلي.",
+          "liveDemo": "عرض حي",
+          "github": "جيثب"
+        },
+        "blog": {
+          "title": "منصة المدونة",
+          "description": "منصة مدونة حديثة مع لوحة إدارية وتحسين محركات البحث وتكامل وسائل التواصل الاجتماعي.",
+          "liveDemo": "عرض حي",
+          "github": "جيثب"
+        },
+        "portfolio": {
+          "title": "موقع الملف الشخصي",
+          "description": "موقع ملف شخصي متجاوب يعرض المشاريع والمهارات بمبادئ التصميم الحديثة.",
+          "liveDemo": "عرض حي",
+          "github": "جيثب"
+        },
+        "crm": {
+          "title": "نظام إدارة علاقات العملاء",
+          "description": "نظام إدارة علاقات العملاء مع تتبع العملاء المحتملين ولوحة تحليلات.",
+          "liveDemo": "عرض حي",
+          "github": "جيثب"
+        },
+        "api": {
+          "title": "تطوير واجهة برمجة التطبيقات",
+          "description": "تطوير واجهة برمجة تطبيقات RESTful مع المصادقة وتقييد المعدل والتوثيق الشامل.",
+          "liveDemo": "عرض حي",
+          "github": "جيثب"
+        }
+      }
+    },
+    "achievements": {
+      "title": "إنجازاتي",
+      "projects": "مشروع",
+      "clients": "عميل",
+      "countries": "دولة",
+      "years": "سنة"
+    },
+    "news": {
+      "title": "آخر الأخبار",
+      "items": {
+        "webDev": {
+          "date": "30 يوليو 2024 - تطوير الويب",
+          "title": "اتجاهات تطوير الويب الحديثة 2024",
+          "description": "استكشاف أحدث الاتجاهات في تطوير الويب بما في ذلك تكامل الذكاء الاصطناعي وتحسين الأداء والأطر الحديثة.",
+          "readMore": "اقرأ المزيد"
+        },
+        "laravel": {
+          "date": "25 يوليو 2024 - لارافيل",
+          "title": "لارافيل 11: ما الجديد والمثير",
+          "description": "اكتشف الميزات والتحسينات الجديدة في لارافيل 11 التي ستعزز سير عمل التطوير الخاص بك.",
+          "readMore": "اقرأ المزيد"
+        },
+        "php": {
+          "date": "20 يوليو 2024 - بي إتش بي",
+          "title": "تحسينات أداء PHP 8.3",
+          "description": "تعرف على تحسينات الأداء والميزات الجديدة في PHP 8.3 التي يمكن أن تعزز سرعة تطبيقك.",
+          "readMore": "اقرأ المزيد"
+        }
+      }
+    },
+    "contact": {
+      "title": "تواصل معي",
+      "form": {
+        "name": "الاسم",
+        "email": "البريد الإلكتروني",
+        "message": "الرسالة",
+        "messagePlaceholder": "أرسل لي رسالة على ousamablh@gmail.com",
+        "submit": "إرسال"
+      }
+    },
+    "footer": {
+      "tagline": "مطور ويب | متحمس لـ PHP ولارافيل",
+      "copyright": "© 2024 أسامة بلحمرة. جميع الحقوق محفوظة."
+    }
+  },
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "about": "À propos",
+      "experience": "Expérience",
+      "portfolio": "Portfolio",
+      "news": "Actualités",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Moi-même",
+      "name": "Oussama Belhamra",
+      "subtitle": "Je suis un développeur web",
+      "description": "L'objectif n'est pas de construire un site web. L'objectif est de construire votre entreprise. Avec une conception et un développement de sites web créatifs, flexibles et abordables.",
+      "downloadCV": "Télécharger CV",
+      "moreInfo": "Plus d'infos"
+    },
+    "about": {
+      "title": "À propos",
+      "titleHighlight": "de moi",
+      "headline": "Passionné de code à temps plein, chasseur de bugs à temps partiel. Obsédé par le design épuré et l'expérience utilisateur fluide.",
+      "bio": "Je suis votre développeur web ayant 3+ années d'expérience dans ce domaine fournit une gamme complète de solutions de développement web à toute industrie ainsi qu'aux clients corporatifs maintenant leur réputation et augmentant la notoriété de la marque en utilisant des technologies modernes et les meilleures pratiques.",
+      "skills": "Mes compétences",
+      "personalDetails": {
+        "fullName": "Nom complet:",
+        "age": "Âge:",
+        "language": "Langue:",
+        "phone": "Téléphone:",
+        "email": "Email:",
+        "address": "Adresse:"
+      },
+      "values": {
+        "fullName": "Oussama Belhamra",
+        "age": "25 ans",
+        "email": "ousamablh@gmail.com",
+        "language": "Arabe, Anglais, Français",
+        "phone": "+213795733632",
+        "address": "Algérie, Oran, Akid lotfi"
+      }
+    },
+    "services": {
+      "title": "Mes services",
+      "webDesign": {
+        "title": "Conception web",
+        "description": "Connectez-vous avec vos utilisateurs, pas seulement avec votre entreprise.",
+        "readMore": "Lire plus"
+      },
+      "development": {
+        "title": "Développement",
+        "description": "Nous développons l'identité visuelle de votre entreprise.",
+        "readMore": "Lire plus"
+      },
+      "laravel": {
+        "title": "Laravel",
+        "description": "Framework PHP moderne pour les applications web.",
+        "readMore": "Lire plus"
+      },
+      "seo": {
+        "title": "Optimisé SEO",
+        "description": "Amener votre site au sommet du classement Google.",
+        "readMore": "Lire plus"
+      }
+    },
+    "experience": {
+      "title": "Mon expérience",
+      "education": "Éducation",
+      "workExperience": "Expérience professionnelle",
+      "educationItems": {
+        "webDev": {
+          "period": "2019-09 - 2021-09",
+          "title": "Associé en Sciences: Développement web",
+          "institution": "Institut National de l'Audiovisuel - Algérie, Oueld Fayet"
+        },
+        "highSchool": {
+          "period": "2017-09 - 2018-06",
+          "title": "Diplôme d'études secondaires",
+          "institution": "Lycée Al Mujahid Ben Badis Mohamed - Algérie, Mila, Teraai Beinen, Centre Beinen"
+        }
+      },
+      "workItems": {
+        "hr": {
+          "period": "2022-09 - 2023-09",
+          "title": "Sous-officier adjoint en gestion des ressources humaines",
+          "company": "Armée nationale, Ouargla",
+          "responsibilities": [
+            "Bien travaillé dans un environnement d'équipe, fournissant soutien et orientation",
+            "Travaillé des heures flexibles à travers des quarts de nuit, de week-end et de vacances",
+            "Adaptable et compétent dans l'apprentissage de nouveaux concepts rapidement et efficacement",
+            "Fourni un support technique en utilisant mes connaissances pour résoudre des problèmes et soutenir de nouveaux projets",
+            "Testé et installé des cartes mères, processeurs et cartes graphiques sur des ordinateurs de bureau et portables pour le personnel corporatif"
+          ]
+        }
+      }
+    },
+    "portfolio": {
+      "title": "Mon portfolio",
+      "filters": {
+        "all": "TOUT",
+        "web": "WEB",
+        "laravel": "LARAVEL",
+        "php": "PHP"
+      },
+      "projects": {
+        "ecommerce": {
+          "title": "Plateforme e-commerce",
+          "description": "Une plateforme e-commerce complète construite avec Laravel, avec authentification utilisateur, gestion des produits et intégration de paiement.",
+          "liveDemo": "Démo en direct",
+          "github": "GitHub"
+        },
+        "taskManagement": {
+          "title": "Système de gestion des tâches",
+          "description": "Une application complète de gestion des tâches avec rôles utilisateur, suivi de projet et notifications en temps réel.",
+          "liveDemo": "Démo en direct",
+          "github": "GitHub"
+        },
+        "blog": {
+          "title": "Plateforme de blog",
+          "description": "Une plateforme de blog moderne avec panneau d'administration, optimisation SEO et intégration des réseaux sociaux.",
+          "liveDemo": "Démo en direct",
+          "github": "GitHub"
+        },
+        "portfolio": {
+          "title": "Site portfolio",
+          "description": "Un site portfolio responsive présentant des projets et des compétences avec des principes de design modernes.",
+          "liveDemo": "Démo en direct",
+          "github": "GitHub"
+        },
+        "crm": {
+          "title": "Système CRM",
+          "description": "Un système de gestion de la relation client avec suivi des prospects et tableau de bord analytique.",
+          "liveDemo": "Démo en direct",
+          "github": "GitHub"
+        },
+        "api": {
+          "title": "Développement d'API",
+          "description": "Développement d'API RESTful avec authentification, limitation de débit et documentation complète.",
+          "liveDemo": "Démo en direct",
+          "github": "GitHub"
+        }
+      }
+    },
+    "achievements": {
+      "title": "Mes réalisations",
+      "projects": "Projets",
+      "clients": "Clients",
+      "countries": "Pays",
+      "years": "Années"
+    },
+    "news": {
+      "title": "Dernières actualités",
+      "items": {
+        "webDev": {
+          "date": "30 juillet 2024 - Développement web",
+          "title": "Tendances modernes du développement web 2024",
+          "description": "Explorer les dernières tendances du développement web incluant l'intégration IA, l'optimisation des performances et les frameworks modernes.",
+          "readMore": "Lire plus"
+        },
+        "laravel": {
+          "date": "25 juillet 2024 - Laravel",
+          "title": "Laravel 11: Ce qui est nouveau et passionnant",
+          "description": "Découvrez les nouvelles fonctionnalités et améliorations dans Laravel 11 qui amélioreront votre flux de travail de développement.",
+          "readMore": "Lire plus"
+        },
+        "php": {
+          "date": "20 juillet 2024 - PHP",
+          "title": "Améliorations de performance PHP 8.3",
+          "description": "Apprenez les améliorations de performance et nouvelles fonctionnalités de PHP 8.3 qui peuvent booster la vitesse de votre application.",
+          "readMore": "Lire plus"
+        }
+      }
+    },
+    "contact": {
+      "title": "Contactez-moi",
+      "form": {
+        "name": "Nom",
+        "email": "Email",
+        "message": "Message",
+        "messagePlaceholder": "Envoyez-moi un message à ousamablh@gmail.com",
+        "submit": "Envoyer"
+      }
+    },
+    "footer": {
+      "tagline": "Développeur web | Passionné de PHP et Laravel",
+      "copyright": "© 2024 Oussama Belhamra. Tous droits réservés."
+    }
+  }
+}
