@@ -98,16 +98,20 @@
                             More Info
                         </button>
                     </div>
+                    
+                    <!-- Scroll Down Indicator -->
+                    <div class="flex justify-center lg:justify-start mt-12">
+                        <div class="scroll-indicator animate-bounce">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+                            </svg>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
         
-        <!-- Scroll Indicator -->
-        <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
-            <div class="w-6 h-10 border-2 border-white rounded-full flex justify-center">
-                <div class="w-1 h-3 bg-white rounded-full mt-2 animate-pulse"></div>
-            </div>
-        </div>
+        <!-- Remove the old absolute positioned scroll indicator -->
     </section>
 
     <!-- About Section -->

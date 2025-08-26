@@ -5,9 +5,24 @@ const mobileMenu = document.getElementById('mobileMenu');
 const darkModeToggle = document.getElementById('darkModeToggle');
 const contactForm = document.getElementById('contactForm');
 const navLinks = document.querySelectorAll('.nav-link');
+const scrollIndicator = document.querySelector('.scroll-indicator');
 
 // Dark mode state
 let isDarkMode = localStorage.getItem('darkMode') === 'true';
+
+// Scroll indicator functionality
+if (scrollIndicator) {
+    scrollIndicator.addEventListener('click', () => {
+        const aboutSection = document.getElementById('about');
+        if (aboutSection) {
+            const offsetTop = aboutSection.offsetTop - 80; // Account for fixed navbar
+            window.scrollTo({
+                top: offsetTop,
+                behavior: 'smooth'
+            });
+        }
+    });
+}
 
 // Initialize dark mode
 function initDarkMode() {
