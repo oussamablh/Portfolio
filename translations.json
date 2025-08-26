@@ -9,7 +9,7 @@
       "contact": "Contact"
     },
     "hero": {
-      "title": "My Self",
+      "title": "Who Am I?",
       "name": "Oussama Belhamra",
       "subtitle": "I'm A Web Developer",
       "description": "The goal isn't to build a website. The goal is to build your business. With Creative, flexible and affordable website design and development.",
@@ -195,7 +195,7 @@
       "contact": "اتصل"
     },
     "hero": {
-      "title": "نفسي",
+      "title": "من أنا؟",
       "name": "أسامة بلحمرة",
       "subtitle": "أنا مطور ويب",
       "description": "الهدف ليس بناء موقع ويب. الهدف هو بناء عملك. مع تصميم وتطوير مواقع ويب إبداعية ومرنة وبأسعار معقولة.",
@@ -381,7 +381,7 @@
       "contact": "Contact"
     },
     "hero": {
-      "title": "Moi-même",
+      "title": "Qui suis-je ?",
       "name": "Oussama Belhamra",
       "subtitle": "Je suis un développeur web",
       "description": "L'objectif n'est pas de construire un site web. L'objectif est de construire votre entreprise. Avec une conception et un développement de sites web créatifs, flexibles et abordables.",
